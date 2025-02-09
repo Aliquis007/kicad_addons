@@ -1,0 +1,3 @@
+[submodule "scripting/plugins/viastitching"]
+	path = scripting/plugins/viastitching
+	url = https://github.com/weirdgyn/viastitching.git
