@@ -15,5 +15,6 @@ git fetch origin
 git checkout -f -B main origin/main
 git reset --hard origin/main
 git pull origin main --force
+git submodule update --init
 ``` 
 
